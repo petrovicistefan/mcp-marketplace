@@ -4,7 +4,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "mcp-seo-auditor"
+        "mcp-seo-auditor@0.1.1"
       ]
     }
   }

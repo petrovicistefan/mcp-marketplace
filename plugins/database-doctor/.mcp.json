@@ -4,7 +4,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "mcp-database-doctor"
+        "mcp-database-doctor@0.1.1"
       ]
     }
   }

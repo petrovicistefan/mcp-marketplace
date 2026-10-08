@@ -15,6 +15,5 @@
   ],
   "homepage": "https://github.com/petrovicistefan/mcp-dependency-doctor",
   "repository": "https://github.com/petrovicistefan/mcp-dependency-doctor",
-  "supportUrl": "https://github.com/petrovicistefan/mcp-dependency-doctor/issues",
-  "documentationUrl": "https://github.com/petrovicistefan/mcp-dependency-doctor#readme"
+  "icon": "./.claude-plugin/icon.png"
 }
