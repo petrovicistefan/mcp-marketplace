@@ -1,0 +1,20 @@
+{
+  "name": "api-guardian",
+  "displayName": "MCP API Guardian",
+  "version": "0.1.0",
+  "description": "Local OpenAPI contract checks and breaking-change detection for AI coding agents.",
+  "author": {
+    "name": "Stefan Petrovici"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "openapi",
+    "api",
+    "breaking-changes"
+  ],
+  "homepage": "https://github.com/petrovicistefan/mcp-api-guardian",
+  "repository": "https://github.com/petrovicistefan/mcp-api-guardian",
+  "supportUrl": "https://github.com/petrovicistefan/mcp-api-guardian/issues",
+  "documentationUrl": "https://github.com/petrovicistefan/mcp-api-guardian#readme"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "database-doctor",
+  "displayName": "MCP Database Doctor",
+  "version": "0.1.0",
+  "description": "Offline PostgreSQL diagnostics: SQL review, risky migrations, index candidates, EXPLAIN plans.",
+  "author": {
+    "name": "Stefan Petrovici"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "postgresql",
+    "sql",
+    "migrations"
+  ],
+  "homepage": "https://github.com/petrovicistefan/mcp-database-doctor",
+  "repository": "https://github.com/petrovicistefan/mcp-database-doctor",
+  "supportUrl": "https://github.com/petrovicistefan/mcp-database-doctor/issues",
+  "documentationUrl": "https://github.com/petrovicistefan/mcp-database-doctor#readme"
+}

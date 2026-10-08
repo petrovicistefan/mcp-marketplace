@@ -1,0 +1,20 @@
+{
+  "name": "cost-optimizer",
+  "displayName": "MCP Cost Optimizer",
+  "version": "0.1.0",
+  "description": "Local-first LLM cost analysis and model-switch savings estimates.",
+  "author": {
+    "name": "Stefan Petrovici"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "llm",
+    "cost",
+    "tokens"
+  ],
+  "homepage": "https://github.com/petrovicistefan/mcp-cost-optimizer",
+  "repository": "https://github.com/petrovicistefan/mcp-cost-optimizer",
+  "supportUrl": "https://github.com/petrovicistefan/mcp-cost-optimizer/issues",
+  "documentationUrl": "https://github.com/petrovicistefan/mcp-cost-optimizer#readme"
+}

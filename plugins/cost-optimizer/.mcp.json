@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cost-optimizer": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-cost-optimizer"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "dependency-doctor",
+  "displayName": "MCP Dependency Doctor",
+  "version": "0.1.0",
+  "description": "Read-only npm dependency inventory, audit and health diagnostics.",
+  "author": {
+    "name": "Stefan Petrovici"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "npm",
+    "dependencies",
+    "audit"
+  ],
+  "homepage": "https://github.com/petrovicistefan/mcp-dependency-doctor",
+  "repository": "https://github.com/petrovicistefan/mcp-dependency-doctor",
+  "supportUrl": "https://github.com/petrovicistefan/mcp-dependency-doctor/issues",
+  "documentationUrl": "https://github.com/petrovicistefan/mcp-dependency-doctor#readme"
+}

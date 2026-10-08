@@ -1,0 +1,20 @@
+{
+  "name": "seo-auditor",
+  "displayName": "MCP SEO Auditor",
+  "version": "0.1.0",
+  "description": "Read-only static SEO audits and bounded crawling, running locally.",
+  "author": {
+    "name": "Stefan Petrovici"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "seo",
+    "audit",
+    "crawl"
+  ],
+  "homepage": "https://github.com/petrovicistefan/mcp-seo-auditor",
+  "repository": "https://github.com/petrovicistefan/mcp-seo-auditor",
+  "supportUrl": "https://github.com/petrovicistefan/mcp-seo-auditor/issues",
+  "documentationUrl": "https://github.com/petrovicistefan/mcp-seo-auditor#readme"
+}
