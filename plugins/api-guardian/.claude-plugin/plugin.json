@@ -1,5 +1,5 @@
 {
-  "name": "api-guardian",
+  "name": "mcp-api-guardian",
   "displayName": "MCP API Guardian",
   "version": "0.1.0",
   "description": "Local OpenAPI contract checks and breaking-change detection for AI coding agents.",

@@ -1,5 +1,5 @@
 {
-  "name": "dependency-doctor",
+  "name": "mcp-dependency-doctor",
   "displayName": "MCP Dependency Doctor",
   "version": "0.1.0",
   "description": "Read-only npm dependency inventory, audit and health diagnostics.",

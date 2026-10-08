@@ -1,5 +1,5 @@
 {
-  "name": "seo-auditor",
+  "name": "mcp-seo-auditor",
   "displayName": "MCP SEO Auditor",
   "version": "0.1.0",
   "description": "Read-only static SEO audits and bounded crawling, running locally.",
