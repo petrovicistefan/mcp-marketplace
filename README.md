@@ -7,15 +7,17 @@ Local-first MCP servers for AI coding agents, by [Stefan Petrovici](https://gith
 /plugin install mcp-api-guardian@petrovicistefan-mcp
 ```
 
-| Plugin | What it does |
-| --- | --- |
-| `mcp-api-guardian` | OpenAPI contract checks and breaking-change detection |
-| `mcp-cost-optimizer` | LLM cost analysis and model-switch savings estimates |
-| `mcp-database-doctor` | Offline PostgreSQL SQL, migration and EXPLAIN diagnostics |
-| `mcp-dependency-doctor` | Read-only npm dependency inventory, audit and health |
-| `mcp-seo-auditor` | Read-only static SEO audits (needs Python 3.11+) |
+| MCP | What it does | Support |
+| --- | --- | --- |
+| [`mcp-api-guardian`](https://github.com/petrovicistefan/mcp-api-guardian) | OpenAPI contract checks and breaking-change detection | [⭐ Star on GitHub](https://github.com/petrovicistefan/mcp-api-guardian) |
+| [`mcp-cost-optimizer`](https://github.com/petrovicistefan/mcp-cost-optimizer) | LLM cost analysis and model-switch savings estimates | [⭐ Star on GitHub](https://github.com/petrovicistefan/mcp-cost-optimizer) |
+| [`mcp-database-doctor`](https://github.com/petrovicistefan/mcp-database-doctor) | Offline PostgreSQL SQL, migration and EXPLAIN diagnostics | [⭐ Star on GitHub](https://github.com/petrovicistefan/mcp-database-doctor) |
+| [`mcp-dependency-doctor`](https://github.com/petrovicistefan/mcp-dependency-doctor) | Read-only npm dependency inventory, audit and health | [⭐ Star on GitHub](https://github.com/petrovicistefan/mcp-dependency-doctor) |
+| [`mcp-seo-auditor`](https://github.com/petrovicistefan/mcp-seo-auditor) | Read-only static SEO audits (needs Python 3.11+) | [⭐ Star on GitHub](https://github.com/petrovicistefan/mcp-seo-auditor) |
+| [`mcp-security-guard`](https://github.com/petrovicistefan/mcp-security-guard) | Security scanning of MCP servers and agent integrations | [⭐ Star on GitHub](https://github.com/petrovicistefan/mcp-security-guard) |
 
-Looking for security scanning of the MCP servers you use? See [mcp-security-guard](https://github.com/petrovicistefan/mcp-security-guard) (`/plugin marketplace add petrovicistefan/mcp-security-guard`).
+
+Security Guard can also be added with `/plugin marketplace add petrovicistefan/mcp-security-guard`.
 
 All servers are also on npm and in the official MCP Registry, so any MCP client can run them with `npx -y <package>`.
 
