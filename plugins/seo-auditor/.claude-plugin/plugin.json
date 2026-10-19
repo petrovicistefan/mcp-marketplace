@@ -1,7 +1,7 @@
 {
   "name": "mcp-seo-auditor",
   "displayName": "MCP SEO Auditor",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Read-only static SEO audits and bounded crawling, running locally.",
   "author": {
     "name": "Stefan Petrovici"

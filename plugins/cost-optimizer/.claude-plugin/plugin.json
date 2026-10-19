@@ -1,7 +1,7 @@
 {
   "name": "mcp-cost-optimizer",
   "displayName": "MCP Cost Optimizer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Local-first LLM cost analysis and model-switch savings estimates.",
   "author": {
     "name": "Stefan Petrovici"
