@@ -1,7 +1,7 @@
 {
   "name": "mcp-dependency-doctor",
   "displayName": "MCP Dependency Doctor",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Read-only npm dependency inventory, audit and health diagnostics.",
   "author": {
     "name": "Stefan Petrovici"
