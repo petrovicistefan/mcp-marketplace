@@ -13,6 +13,15 @@ Add this marketplace and install the plugin:
 
 Claude Code starts the server with `npx -y mcp-dependency-doctor`, so Node.js 22 or newer must be available on your PATH.
 
+## What data it touches
+
+MCP Dependency Doctor runs entirely locally and processes:
+- package.json and package-lock.json files from your local filesystem
+- npm audit results (read-only)
+- Package health metadata from npm registry (public data)
+
+All processing happens on your machine in read-only mode. No data is sent to any remote service except standard npm audit checks. No credentials are required.
+
 ## Learn more
 
 Tools, examples and limits are documented in the [project README](https://github.com/petrovicistefan/mcp-dependency-doctor#readme). Report problems in the [issue tracker](https://github.com/petrovicistefan/mcp-dependency-doctor/issues). The code is MIT licensed.

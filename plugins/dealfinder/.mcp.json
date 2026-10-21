@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "dealfinder": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-dealfinder@0.1.1"
+      ],
+      "env": {
+        "DEALFINDER_CONFIG": ""
+      }
+    }
+  }
+}
