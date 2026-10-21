@@ -1,0 +1,32 @@
+{
+  "mcpServers": {
+    "mcp-security-guard": {
+      "command": "npx",
+      "args": ["-y", "mcp-security-guard"]
+    },
+    "mcp-api-guardian": {
+      "command": "npx",
+      "args": ["-y", "mcp-api-guardian"]
+    },
+    "mcp-database-doctor": {
+      "command": "npx",
+      "args": ["-y", "mcp-database-doctor"]
+    },
+    "mcp-dealfinder": {
+      "command": "npx",
+      "args": ["-y", "mcp-dealfinder"]
+    },
+    "mcp-dependency-doctor": {
+      "command": "npx",
+      "args": ["-y", "mcp-dependency-doctor"]
+    },
+    "mcp-cost-optimizer": {
+      "command": "npx",
+      "args": ["-y", "mcp-cost-optimizer"]
+    },
+    "mcp-seo-auditor": {
+      "command": "npx",
+      "args": ["-y", "mcp-seo-auditor"]
+    }
+  }
+}

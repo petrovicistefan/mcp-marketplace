@@ -13,6 +13,15 @@ Add this marketplace and install the plugin:
 
 Claude Code starts the server with `npx -y mcp-seo-auditor`, so Node.js 22 or newer must be available on your PATH.
 
+## What data it touches
+
+MCP SEO Auditor runs entirely locally and processes:
+- Web pages you specify by URL (fetches pages for analysis)
+- HTML content for on-page SEO factors (titles, headings, meta tags, links)
+- Bounded crawl results (limited depth/page count)
+
+The server fetches web content from URLs you provide but performs all analysis locally. No data is sent to any third-party service. No credentials are required.
+
 ## Learn more
 
 Tools, examples and limits are documented in the [project README](https://github.com/petrovicistefan/mcp-seo-auditor#readme). Report problems in the [issue tracker](https://github.com/petrovicistefan/mcp-seo-auditor/issues). The code is MIT licensed.

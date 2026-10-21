@@ -1,0 +1,19 @@
+{
+  "name": "mcp-dealfinder",
+  "displayName": "MCP DealFinder",
+  "version": "0.1.1",
+  "description": "Local affiliate product search with your tracked links and disclosure.",
+  "author": {
+    "name": "Stefan Petrovici"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "affiliate",
+    "deals",
+    "shopping"
+  ],
+  "homepage": "https://github.com/petrovicistefan/mcp-dealfinder",
+  "repository": "https://github.com/petrovicistefan/mcp-dealfinder",
+  "icon": "./.claude-plugin/icon.png"
+}

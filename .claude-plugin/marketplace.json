@@ -3,7 +3,7 @@
   "owner": {
     "name": "Stefan Petrovici"
   },
-  "description": "Claude Code plugin marketplace: 6 local-first MCP servers for safer AI coding — MCP security, Postgres migrations, OpenAPI breaking changes, npm deps, LLM costs, SEO.",
+  "description": "Claude Code plugin marketplace: 7 local-first MCP servers for safer AI coding — MCP security, Postgres migrations, OpenAPI breaking changes, npm deps, LLM costs, SEO, affiliate deals.",
   "plugins": [
     {
       "name": "mcp-api-guardian",
@@ -90,6 +90,20 @@
         "scanning"
       ],
       "homepage": "https://github.com/petrovicistefan/mcp-security-guard"
+    },
+    {
+      "name": "mcp-dealfinder",
+      "source": "./plugins/dealfinder",
+      "description": "Local affiliate product search with your tracked links and disclosure.",
+      "version": "0.1.1",
+      "category": "development",
+      "keywords": [
+        "mcp",
+        "affiliate",
+        "deals",
+        "shopping"
+      ],
+      "homepage": "https://github.com/petrovicistefan/mcp-dealfinder"
     }
   ]
 }
