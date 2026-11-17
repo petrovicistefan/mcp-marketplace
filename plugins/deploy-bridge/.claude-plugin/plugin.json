@@ -1,0 +1,20 @@
+{
+  "name": "mcp-deploy-bridge",
+  "displayName": "MCP Deploy Bridge",
+  "version": "0.1.0",
+  "description": "List deployments, logs, redeploy and rollback on Vercel and Cloudflare Workers for AI coding agents.",
+  "author": {
+    "name": "Stefan Petrovici"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "deploy",
+    "vercel",
+    "cloudflare",
+    "rollback"
+  ],
+  "homepage": "https://github.com/petrovicistefan/mcp-deploy-bridge",
+  "repository": "https://github.com/petrovicistefan/mcp-deploy-bridge",
+  "icon": "./.claude-plugin/icon.png"
+}
