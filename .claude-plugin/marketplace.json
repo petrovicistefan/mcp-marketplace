@@ -3,8 +3,23 @@
   "owner": {
     "name": "Stefan Petrovici"
   },
-  "description": "Claude Code plugin marketplace: 7 local-first MCP servers for safer AI coding \u2014 MCP security, Postgres migrations, OpenAPI breaking changes, npm deps, LLM costs, SEO, affiliate deals.",
+  "description": "Claude Code plugin marketplace: local-first MCP servers for safer AI coding \u2014 MCP security, Postgres migrations, OpenAPI, npm deps, LLM costs, SEO, deploy/rollback, affiliate deals.",
   "plugins": [
+    {
+      "name": "mcp-deploy-bridge",
+      "source": "./plugins/deploy-bridge",
+      "description": "List deployments, logs, redeploy and rollback on Vercel and Cloudflare Workers for AI coding agents.",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": [
+        "mcp",
+        "deploy",
+        "vercel",
+        "cloudflare",
+        "rollback"
+      ],
+      "homepage": "https://github.com/petrovicistefan/mcp-deploy-bridge"
+    },
     {
       "name": "mcp-api-guardian",
       "source": "./plugins/api-guardian",

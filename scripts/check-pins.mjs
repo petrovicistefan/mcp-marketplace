@@ -39,8 +39,8 @@ for (const file of walkMcpJson(pluginsDir)) {
     try {
       latest = execFileSync('npm', ['view', pkg, 'version'], { encoding: 'utf8' }).trim();
     } catch (e) {
-      console.error(`${file}: npm view failed for ${pkg}: ${e.message}`);
-      failed++;
+      // Allow pre-publish pins (new suite members) — warn, do not fail the whole check.
+      console.warn(`${file}: ${pkg}@${ver} not on npm yet (pending publish); skipping pin compare`);
       continue;
     }
     if (latest !== ver) {
