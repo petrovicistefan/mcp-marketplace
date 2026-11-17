@@ -4,7 +4,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "mcp-api-guardian@0.1.2"
+        "mcp-api-guardian@0.1.3"
       ]
     }
   }
