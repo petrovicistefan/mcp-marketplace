@@ -65,7 +65,7 @@
       "name": "mcp-seo-auditor",
       "source": "./plugins/seo-auditor",
       "description": "Read-only static SEO audits and bounded crawling, running locally.",
-      "version": "0.1.2",
+      "version": "0.1.5",
       "category": "development",
       "keywords": [
         "mcp",
