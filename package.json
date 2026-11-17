@@ -1,5 +1,8 @@
 {
-  "devDependencies": {
-    "@anthropic-ai/claude-code": "^2.1.306"
+  "name": "mcp-marketplace",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:rules": "node scripts/check-pins.mjs"
   }
 }
