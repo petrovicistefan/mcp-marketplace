@@ -3,7 +3,7 @@
   "owner": {
     "name": "Stefan Petrovici"
   },
-  "description": "Claude Code plugin marketplace: local-first MCP servers for safer AI coding \u2014 MCP security, Postgres migrations, OpenAPI, npm deps, LLM costs, SEO, deploy/rollback, affiliate deals.",
+  "description": "Claude Code plugin marketplace and MCP server suite: local-first MCP servers for safer AI coding \u2014 MCP security scanning, PostgreSQL migration linting, OpenAPI breaking-change detection, npm dependency audits, LLM cost optimization, SEO audits, deploy/rollback, affiliate deals.",
   "plugins": [
     {
       "name": "mcp-deploy-bridge",
